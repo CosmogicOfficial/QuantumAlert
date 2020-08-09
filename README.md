@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://quantumalert.cosmogic.com">
-    <img alt="SweetAlert" src="https://raw.githubusercontent.com/CosmogicOfficial/QuantumAlert/c23d657fd64891a5f841f66007afc4348bfa39d8/MDfiles/Logoalert.svg" width="200" title="QuantumAlert website">
+    <img alt="QuantumAlert" src="https://raw.githubusercontent.com/CosmogicOfficial/QuantumAlert/c23d657fd64891a5f841f66007afc4348bfa39d8/MDfiles/Logoalert.svg" width="200" title="QuantumAlert website">
   </a>
 </p>
 
