@@ -136,7 +136,7 @@ Qual.confirm(
 
 ## Follow us on
 <br>
-<a href="https://www.instagram.com/cosmogicofficial/"><img src="https://github.com/CosmogicOfficial/QuantumAlert/blob/master/MDfiles/instagram.gif?raw=true" height="100px" style="border-radius:50%;margin-left:20px;"/></a> <a href="https://www.linkedin.com/company/cosmogic/?viewAsMember=true"> <img src="https://github.com/CosmogicOfficial/QuantumAlert/blob/master/MDfiles/linked.gif?raw=true" height="100px" style="border-radius:750px;width:100px;margin-left:20px;"/></a><a href="https://twitter.com/wearecosmogic"><img src="https://github.com/CosmogicOfficial/QuantumAlert/blob/master/MDfiles/twitter.gif?raw=true" height="100px" style="border-radius:250px; margin-left:20px;"/></a>
+<a href="https://www.instagram.com/cosmogicofficial/"><img src="https://github.com/CosmogicOfficial/QuantumAlert/blob/master/MDfiles/instagram.gif?raw=true" height="100px" style="border-radius:50%;margin-left:20px;"/></a> <a href="https://www.linkedin.com/company/cosmogic/?viewAsMember=true"> <img src="https://github.com/CosmogicOfficial/QuantumAlert/blob/master/MDfiles/linked.gif?raw=true" height="100px" style="width:60px;height:60px;margin-left:20px;"/></a><a href="https://twitter.com/wearecosmogic"><img src="https://github.com/CosmogicOfficial/QuantumAlert/blob/master/MDfiles/twitter.gif?raw=true" height="100px" style="border-radius:250px; margin-left:20px;"/></a>
 
 ---
 
