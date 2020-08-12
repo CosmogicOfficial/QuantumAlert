@@ -24,7 +24,7 @@ A Powerful , Elegant and fully customizable "alert" library using JavaScript tha
 ##### For   `White` `Dark` and `DarkBlue` Theme
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert@master/minix/quantumalert.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert@master/minfiles/quantumalert.js" charset="utf-8"></script>
 ```
 
 <br>
@@ -44,19 +44,15 @@ Here  replace the `example.js` with the name of your `Javascript` file in which 
 For alert with `success` icon.
 
 ```javascript
-Qual.success("Hello Heading", "Helllo content", succ);
+Qual.success("Hello Heading", "Helllo content");
 ```
-
-## Guides
-
--   [Installation](https://quantumalert.cosmogic/#installation)
--   [Getting started](https://quantumalert.cosmogic/#getting-started)
--   [Examples](https://quantumalert.cosmogic/#examples)
 
 ## Documentation
 
--   [Configuration](https://quantumalert.cosmogic/#configuration)
--   [Theming](https://quantumalert.cosmogic/#themeing)
+-   [Installation](https://quantumalert.cosmogic/#installation)
+-   [Getting started](https://quantumalert.cosmogic/#getting-started)
+-   [Examples](https://quantumalert.cosmogic/examples.html)
+
 
 ## Examples
 
@@ -69,13 +65,13 @@ Qual.error("Oops!", "Something went wrong!", err);
 ##### A `Simple` message:
 
 ```javascript
-Qual.simple("Hello Cosmogic!");
+Qual.sw("Hello Cosmogic!");
 ```
 
-##### A `Simple with Heading` message:
+##### A `Simple ` message ` alert box with Heading`:  
 
 ```javascript
-Qual.simpleHeading("Hello Cosmogic", "We are here to make coding fun!");
+Qual.swh("Hello Cosmogic", "We are here to make coding fun!");
 ```
 
 #### A customizable `confimation` alert box where you can change`icon`  and also attach a function to the buttons :
@@ -112,8 +108,8 @@ Qual.confirm(
 
 #### If you're changing the core library:
 
-1.  Make changes in the `Javascript` folder.
-2.  Make changes in the JavaScript file `quantumalert.js , quantumalertdark.js ,quantumalertdarkblue.js`.
+1.  Make changes in the `Mod` folder.
+2.  Make changes in the JavaScript  and Css file `quantumalert.js` ,`quantumalert.css`.
 3.  Submit pull request.
 
 ## Built with :heart: using Pure  <img src="https://raw.githubusercontent.com/CosmogicOfficial/QuantumAlert/master/MDfiles/javascript.svg" height="40px"></img> and <img src="https://raw.githubusercontent.com/CosmogicOfficial/QuantumAlert/master/MDfiles/css-3.svg" height="40px"></img>
