@@ -108,9 +108,8 @@ Qual.confirm(
 
 #### If you're changing the core library:
 
-1.  Make changes in the `Mod` folder.
-2.  Make changes in the JavaScript  and Css file `quantumalert.js` ,`quantumalert.css`.
-3.  Submit pull request.
+1.  Make changes in the JavaScript  and Css file `quantumalert.js` ,`quantumalert.css`.
+2.  Submit pull request.
 
 ## Built with :heart: using Pure  <img src="https://raw.githubusercontent.com/CosmogicOfficial/QuantumAlert/master/MDfiles/javascript.svg" height="40px"></img> and <img src="https://raw.githubusercontent.com/CosmogicOfficial/QuantumAlert/master/MDfiles/css-3.svg" height="40px"></img>
 
