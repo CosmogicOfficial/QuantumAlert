@@ -21,26 +21,10 @@ A Powerful , Elegant and fully customizable "alert" library using JavaScript tha
 
 1.  Place the below script tag under the head section in your HTML webpage.
 
-##### For  Simple `white` Theme
+##### For   `White` `Dark` and `DarkBlue` Theme
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert/minijs/quantumalert.js" charset="utf-8"></script>
-```
-
-<h4 align="center">or</h4>
-
-##### For   `Black` Theme
-
-```javascript
-<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert/minijs/quantumalertdark.js" charset="utf-8"></script>
-```
-
-<h4 align="center">or</h4>
-
-##### For  `DarkBlue` Theme
-
-```javascript
-<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert/minijs/quantumalertdarkblue.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert@master/minix/quantumalert.js" charset="utf-8"></script>
 ```
 
 <br>
