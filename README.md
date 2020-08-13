@@ -49,9 +49,9 @@ Qual.success("Hello Heading", "Helllo content");
 
 ## Documentation
 
--   [Installation](https://quantumalert.cosmogic/#installation)
--   [Getting started](https://quantumalert.cosmogic/#getting-started)
--   [Examples](https://quantumalert.cosmogic/examples.html)
+-   [Installation](https://quantumalert.cosmogic.com/)
+-   [Getting started](https://quantumalert.cosmogic.com/)
+-   [Examples](https://quantumalert.cosmogic.com/demo.html)
 
 
 ## Examples
