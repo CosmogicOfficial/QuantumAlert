@@ -24,7 +24,7 @@ A Powerful , Elegant and fully customizable "alert" library using JavaScript tha
 ##### For   `White` `Dark` and `DarkBlue` Theme
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert@latest/minfiles/quantumalert.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/cosmogicofficial/quantumalert@latest/minfile/quantumalert.js" charset="utf-8"></script>
 ```
 
 <br>
